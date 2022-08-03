@@ -108,4 +108,16 @@ color: #E0B612;
     color: #FF3C5F;
     margin-top: 10px;
 }
-
+#submit-2{
+    display: none;
+}
+#submit-3{
+    display: none;
+}
+#submit-4{
+    display: none;
+}
+.last{
+    color: #E0B612;
+    margin-top: 40px;
+}
